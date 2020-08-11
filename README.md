@@ -23,7 +23,6 @@ Andoird:
 <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/android/home.jpg?raw=true" height="300px" alt="home page" >
 <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/android/movie_details.jpg?raw=true" height="300px" alt="movie details" >
  <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/android/category.jpg?raw=true" height="300px" alt="category" >
-    <img src="https://github.com/fayyaddev/movie_app
     <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/android/search.jpg?raw=true" height="300px" alt="search" >
     <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/android/search_result.jpg?raw=true" height="300px" alt="search result" >
     <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/android/video_player.jpg?raw=true" height="300px" alt="video player" >
