@@ -7,7 +7,7 @@ Some screenshots
 iOS:
 
 <div align="center">
-<img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/ios/home.jpg height="300px" alt="home page" >
+<img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/ios/home.jpg?raw=true" height="300px" alt="home page" >
 <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/ios/movie_details.jpg?raw=true" height="300px" alt="movie details" >
 <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/ios/category.jpg?raw=true" height="300px" alt="category" >
     <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshots/ios/search.jpg?raw=true" height="300px" alt="searcg" >
