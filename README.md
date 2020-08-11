@@ -7,23 +7,23 @@ Some screenshots
 iOS:
 
 <div align="center">
-<img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/ios/home.jpg?raw=true" height="300px" alt="home page" >
-<img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/ios/movie_details.jpg?raw=true" height="300px" alt="movie details" >
-<img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/ios/category.jpg?raw=true" height="300px" alt="category" >
-    <img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/ios/search.jpg?raw=true" height="300px" alt="searcg" >
-    <img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/ios/search_result.jpg?raw=true" height="300px" alt="search result" >
+<img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/ios/home.jpg height="300px" alt="home page" >
+<img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/ios/movie_details.jpg?raw=true" height="300px" alt="movie details" >
+<img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/ios/category.jpg?raw=true" height="300px" alt="category" >
+    <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/ios/search.jpg?raw=true" height="300px" alt="searcg" >
+    <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/ios/search_result.jpg?raw=true" height="300px" alt="search result" >
 
-  <img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/ios/video_player.jpg?raw=true" height="300px" alt="video player" >
+  <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/ios/video_player.jpg?raw=true" height="300px" alt="video player" >
 </div>
 
 
 Andoird:
 
 <div contenteditable="plaintext-only"><div align="center">
-<img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/android/home.jpg?raw=true" height="300px" alt="home page" >
-<img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/android/movie_details.jpg?raw=true" height="300px" alt="movie details" >
+<img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/android/home.jpg?raw=true" height="300px" alt="home page" >
+<img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/android/movie_details.jpg?raw=true" height="300px" alt="movie details" >
  <img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/android/category.jpg?raw=true" height="300px" alt="category" >
-    <img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/android/search.jpg?raw=true" height="300px" alt="search" >
-    <img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/android/search_result.jpg?raw=true" height="300px" alt="search result" >
-    <img src="https://github.com/fayyaddev/movie_app/tree/master/screenshot/android/video_player.jpg?raw=true" height="300px" alt="video player" >
+    <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/android/search.jpg?raw=true" height="300px" alt="search" >
+    <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/android/search_result.jpg?raw=true" height="300px" alt="search result" >
+    <img src="https://github.com/fayyaddev/movie_app/blob/master/screenshot/android/video_player.jpg?raw=true" height="300px" alt="video player" >
 </div>
